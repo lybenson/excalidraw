@@ -36,3 +36,9 @@
   font-display: swap;
   font-weight: 700;
 }
+
+@font-face {
+  font-family: "XiaolaiMonoSC";
+  src: url("XiaolaiMonoSC-Regular.ttf");
+  font-display: swap;
+}
